@@ -1,6 +1,6 @@
 # ECG-Signal-Classification-Using-Support-Vector-Machines
 
-This paper aims at classifying the ECG signal present into one of the three classes: Arrhythmia, Congestive Heart failure, Normal Sinus rhythm.The feature extraction of the ECG signal is done via wavelet based feature extraction and the classification of the ECG signal takes place via Support Vector Machines(kernel used is polynomial)
+This project aims at classifying the ECG signal present into one of the three classes: Arrhythmia, Congestive Heart failure, Normal Sinus rhythm.The feature extraction of the ECG signal is done via wavelet based feature extraction and the classification of the ECG signal takes place via Support Vector Machines(kernel used is polynomial)
 
 ## Datasets Used 
 
